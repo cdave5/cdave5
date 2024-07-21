@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @cdave5
+- 👀 I’m interested in code
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on code
+- 📫 How to reach me phone
+- 😄 Pronouns: him
